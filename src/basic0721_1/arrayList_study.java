@@ -19,7 +19,8 @@ public class arrayList_study {
 		System.out.println(arr_add + " 을(를) 입력하셨네요.");
 		list.add(arr_add);
 		System.out.println(list);
-		
+		int a;
+		int b;
 		
 	}
 }
